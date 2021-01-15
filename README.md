@@ -8,10 +8,11 @@
 ### Liste des algorithme
 
 - [Partie 1](#partie-1)
-- - [Exo1-Echange de Valeurs](Partie1\exo1\)
-- - [Exo1-Echange de Valeurs-bis](#exo-algojs)
-- - [Exo2-Echange de Valeurs-bis](#exo-algojs)
-- - [Exo2-Echange de Valeurs-bis](#exo-algojs)
+- - [Exo1-Echange de Valeurs](https://github.com/bertyn99/Exo-Algojs/tree/main/Partie1/exo1))
+- - [Exo1-Echange de Valeurs-bis](https://github.com/bertyn99/Exo-Algojs/tree/main/Partie1/exo1)
+- - [Exo2-Calcul d'age](ttps://github.com/bertyn99/Exo-Algojs/tree/main/Partie1/exo2)
+- - [Exo3-Distance à vol d'oiseau](https://github.com/bertyn99/Exo-Algojs/tree/main/Partie1/exo3)
+- - [Exo4-1 Kilomètre en pieds, ça use...](https://github.com/bertyn99/Exo-Algojs/tree/main/Partie1/exo3)
 - [Partie 2](#partie-2)
  
 - - [Exo1-](#exo-algojs)
