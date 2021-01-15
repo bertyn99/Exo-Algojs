@@ -1,11 +1,11 @@
 #Exo-Algojs
 
-##Ce repos permettra de contenir tous les exos d'algorithmies code en js
+## Ce repos permettra de contenir tous les exos d'algorithmies code en js
 
-##Structure d'un exercice
+## Structure d'un exercice
 `
 
-###Liste des algorithme
+### Liste des algorithme
 
 - [Partie 1](#partie-1)
 - - [Exo1-Echange de Valeurs](Partie1\exo1)
