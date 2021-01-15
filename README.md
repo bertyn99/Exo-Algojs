@@ -12,7 +12,7 @@
 - - [Exo1-Echange de Valeurs-bis](#exo-algojs)
 - - [Exo2-Echange de Valeurs-bis](#exo-algojs)
 - - [Exo2-Echange de Valeurs-bis](#exo-algojs)
-- [Partie 2](#exo-algojs)
+- [Partie 2](#partie-2)
  
 - - [Exo1-](#exo-algojs)
 - - [Exo2-](#exo-algojs)
