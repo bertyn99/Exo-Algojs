@@ -5,7 +5,7 @@
 ## Structure d'un exercice
 `
 
-### Liste des algorithme
+### Liste des algorithme 
 
 - [Partie 1](#partie-1)
 - - [Exo1-Echange de Valeurs](https://github.com/bertyn99/Exo-Algojs/tree/main/Partie1/exo1))
@@ -15,7 +15,7 @@
 - - [Exo4-1 Kilomètre en pieds, ça use...](https://github.com/bertyn99/Exo-Algojs/tree/main/Partie1/exo3)
 - [Partie 2](#partie-2)
  
-- - [Exo1-](#exo-algojs)
+- - [Exo1-calcul age bis](#exo-algojs)
 - - [Exo2-](#exo-algojs)
 - - [Exo3-](#exo-algojs)
 - - [Exo4-](#exo-algojs)
