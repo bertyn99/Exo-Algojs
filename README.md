@@ -8,7 +8,7 @@
 ### Liste des algorithme
 
 - [Partie 1](#partie-1)
-- - [Exo1-Echange de Valeurs](Partie1\exo1\)
+- - [Exo1-Echange de Valeurs](Partie1\exo1)
 - - [Exo1-Echange de Valeurs-bis](#exo-algojs)
 - - [Exo2-Echange de Valeurs-bis](#exo-algojs)
 - - [Exo2-Echange de Valeurs-bis](#exo-algojs)
