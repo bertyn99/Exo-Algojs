@@ -1,2 +1,2 @@
 
-Calculer la distance à vol d'oiseeau entre deux ville
+Calculer la distance à vol d'oiseeau entre deux ville situé sur l'équateur
