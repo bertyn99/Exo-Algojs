@@ -1,5 +1,9 @@
 let yearOfbirth = 1999
 
+/**
+ * 
+ * @param {*} year année de naissance
+ */
 
 function calculate_age(year) {
     return new Date().getFullYear() - year;
